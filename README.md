@@ -1,3 +1,7 @@
+> This repository is part of the **Quansistor Field Computing (QFC)** corpus.
+>
+> Canonical entry point:
+> https://github.com/101researchgroup
 # An Experimental Operator Framework for the Riemann Hypothesis (QVM)
 
 ## Overview
